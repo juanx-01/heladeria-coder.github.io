@@ -1,0 +1,244 @@
+body{
+    background-color: violet;
+}
+.nos{
+    font-size: 30px;
+    margin-left: 1350px;
+}
+h1.cado{
+    color: rgb(102, 15, 183);
+    font-size: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-left: 490px;
+    font-style: italic;
+    margin-top: 20px;
+
+}
+
+h2.hc{
+    color:rgb(102, 15, 183);
+    font-size: 30px;
+    margin-top: -110px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 650px;
+    font-style: italic;
+}
+
+
+
+img{
+    height: 30%;
+    width: 30%;
+    
+}
+
+.imghelado{
+    margin-left: 10px;
+    margin-top: -405px;
+}
+
+.imgcafe{
+    margin-left: 475px;
+    height: 60%;
+    width: 35%;
+}
+
+.imgtorta{
+    margin-left: 1010px;
+    margin-top: -1400px;
+    margin-bottom: 85px;
+    margin-right: 10px;
+}
+
+.sabores{
+    margin-left: 500px;
+    margin-top: 5%;
+    color: rgb(102, 15, 183);
+    font-size: 150px;
+
+}
+
+h3{
+    color:rgb(102, 15, 183);
+    font-size: 30px; 
+}
+
+.ddl{
+    font-size: 20px;
+}
+.choco{
+    margin-left: 300px;
+    margin-top: -285px;
+}
+
+.choco2{
+    margin-left: 290px;
+    font-size: 20px;
+}
+
+.crema{
+    margin-top: -285px;
+    margin-left: 570px;
+}
+
+.crema2{
+    margin-left: 560px;
+    font-size: 20px;
+}
+
+.fruta{
+    margin-left: 800px;
+    margin-top: -285px;
+}
+
+.fruta2{
+    margin-left: 790px;
+    font-size: 20px;
+}
+
+.postre{
+    margin-top: 100px;
+}
+
+.postre2{
+    font-size: 20px;
+}
+
+.img1{
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+
+.img2{
+    margin-left: 500px;
+    margin-top: -350px;
+}
+
+.infu{
+    margin-left: 500px;
+    margin-top: 5%;
+    color: rgb(102, 15, 183);
+    font-size: 150px;
+}
+
+.lista1{
+    font-size: 20px;
+    margin-left: 50px;
+    
+}
+
+.lista2{
+    font-size: 20px;
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+
+.imgzumo{
+    margin-left: 800px;
+    margin-top: 50px;
+    height: 40%;
+    width: 40%;
+}
+
+.imgcafes{
+    height: 40%;
+    width: 40%;
+    margin-top: -290PX;
+    margin-left: 50px;
+    
+}
+
+.pastel{
+    margin-left: 500px;
+    margin-top: 5%;
+    color: rgb(102, 15, 183);
+    font-size: 150px;
+}
+
+.oreo{
+    margin-left: 450px;
+    margin-top: 150px;
+    font-size: 40px;
+}
+
+.imgoreo{
+    margin-top: -200px;
+}
+
+.cheese{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.imgcheese{
+    margin-top: -60px;
+    width: 500px;
+    margin-left: -470px;
+}
+
+.base{
+    margin-left: 30px;
+    margin-top: -270px;
+}
+
+.ingre{
+    margin-left: 430px;
+    margin-top: -130px;
+}
+
+.lemon{
+    margin-left: 600px;
+    margin-top: -900px;
+    font-size: 40px;
+}
+
+.imglemon{
+    margin-left: 400px;
+    width: 500px;
+}
+
+.receta3{
+    margin-left: 400px;
+}
+
+.quien{
+    margin-left: 500px;
+    margin-top: 5%;
+    color: rgb(102, 15, 183);
+    font-size: 80px;
+}
+.subt{
+    margin-left: 700px;
+    margin-top: 50px;
+    color: rgb(102, 15, 183);
+    font-size: 60px;
+}
+
+.p{
+    color: white;
+    margin-left: 300px;
+    font-size: 20px;
+
+}
+
+.donde{
+    color: blueviolet;
+    margin-top: 50px;
+}
+
+.imghelao{
+    margin-left: 20px;
+    
+    
+}
+.imghelao2{
+    margin-left: 1000px;
+    margin-top: -2500PX;
+    height: 400px;
+}
+.mapa{
+    height: 500px;
+    width: 500px;
+}
