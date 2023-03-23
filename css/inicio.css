@@ -1,108 +1,57 @@
 body{
-    background-color: violet;
+    background-color:violet;
 }
-.nos{
-    font-size: 30px;
-    margin-left: 1350px;
-}
-h1.cado{
-    color: rgb(102, 15, 183);
-    font-size: 150px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-style: italic;
-    margin-left: 490px;
-    font-style: italic;
-    margin-top: 20px;
-
-}
-
-h2.hc{
-    color:rgb(102, 15, 183);
-    font-size: 30px;
-    margin-top: -110px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 650px;
-    font-style: italic;
-}
-
-
-
-img{
-    height: 30%;
-    width: 30%;
-    
-}
-
-.imghelado{
-    margin-left: 10px;
-    margin-top: -405px;
-}
-
-.imgcafe{
-    margin-left: 475px;
-    height: 60%;
-    width: 35%;
-}
-
-.imgtorta{
-    margin-left: 1010px;
-    margin-top: -1400px;
-    margin-bottom: 85px;
+.nosotros{
+    display: flex;
+    justify-content: flex-end;
     margin-right: 10px;
 }
 
-.sabores{
-    margin-left: 500px;
-    margin-top: 5%;
-    color: rgb(102, 15, 183);
-    font-size: 150px;
+img{
+    height: 400px;
+    width: 400px;  
+}
+.grid__inicio{
+  margin-top: 60px; 
+}
 
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.subtitulo{
+ display: flex;
+ justify-content: center;
+ color: blueviolet;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: 40px;
+}
+
+.sabores{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h3{
+    color: blueviolet;
+}
+
+ul{
+    list-style-type: none;
+}
+
+    
+h3{
     color:rgb(102, 15, 183);
     font-size: 30px; 
-}
-
-.ddl{
-    font-size: 20px;
-}
-.choco{
-    margin-left: 300px;
-    margin-top: -285px;
-}
-
-.choco2{
-    margin-left: 290px;
-    font-size: 20px;
-}
-
-.crema{
-    margin-top: -285px;
-    margin-left: 570px;
-}
-
-.crema2{
-    margin-left: 560px;
-    font-size: 20px;
-}
-
-.fruta{
-    margin-left: 800px;
-    margin-top: -285px;
-}
-
-.fruta2{
-    margin-left: 790px;
-    font-size: 20px;
-}
-
-.postre{
-    margin-top: 100px;
-}
-
-.postre2{
-    font-size: 20px;
 }
 
 .img1{
@@ -173,72 +122,52 @@ h3{
 }
 
 .imgcheese{
-    margin-top: -60px;
+    margin-top: -40px;
     width: 500px;
     margin-left: -470px;
 }
 
 .base{
     margin-left: 30px;
-    margin-top: -270px;
+    margin-top: -300px;
 }
 
 .ingre{
     margin-left: 430px;
-    margin-top: -130px;
+    margin-top: -160px;
 }
 
 .lemon{
-    margin-left: 600px;
-    margin-top: -900px;
-    font-size: 40px;
+    margin-left: 700px;
+    margin-top: -1000px;
 }
 
 .imglemon{
-    margin-left: 400px;
-    width: 500px;
+    margin-left: 500px;
 }
 
 .receta3{
-    margin-left: 400px;
+    margin-left: 500px;
 }
 
 .quien{
-    margin-left: 500px;
-    margin-top: 5%;
-    color: rgb(102, 15, 183);
-    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
 }
+
 .subt{
-    margin-left: 700px;
-    margin-top: 50px;
-    color: rgb(102, 15, 183);
-    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
 }
 
 .p{
-    color: white;
-    margin-left: 300px;
-    font-size: 20px;
-
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
 }
 
 .donde{
     color: blueviolet;
-    margin-top: 50px;
-}
-
-.imghelao{
-    margin-left: 20px;
-    
-    
-}
-.imghelao2{
-    margin-left: 1000px;
-    margin-top: -2500PX;
-    height: 400px;
-}
-.mapa{
-    height: 500px;
-    width: 500px;
 }
